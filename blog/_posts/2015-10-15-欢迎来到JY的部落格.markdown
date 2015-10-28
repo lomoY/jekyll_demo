@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "欢迎来到JY的博客"
+date:   2015-10-17 00:00:13
+categories: jekyll update
+---
+敬请期待！

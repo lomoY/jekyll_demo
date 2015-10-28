@@ -1,0 +1,12 @@
+# Site settings
+title: JY的摄影博客
+email: lomozhenyu@163.com
+description: > # this means to ignore newlines until "baseurl:"
+  JY将在这里记录他的摄影生活
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  LomoY
+
+# Build settings
+markdown: kramdown
